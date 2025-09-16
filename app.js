@@ -12,6 +12,7 @@ function agregarAmigo() {
     mostrarListaAmigo();
   }
 }
+//
 
 
 function mostrarListaAmigo() {
